@@ -1,0 +1,5 @@
+Months =  1
+Balance = Rs. 6300
+Total Deposite =  Rs. 500
+Total Withdraw = Rs. 200
+Total interest = Rs. 7875
